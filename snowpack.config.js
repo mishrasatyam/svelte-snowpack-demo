@@ -27,4 +27,7 @@ module.exports = {
   alias: {
     /* ... */
   },
+  experiments:{
+    source:'skypack'
+  }
 };

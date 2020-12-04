@@ -1,6 +1,7 @@
 <script>
 import Click from "./components/Click.svelte";
 export let name;
+
 </script>
 
 <div class="App">
